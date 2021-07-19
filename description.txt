@@ -1,0 +1,3 @@
+The project provides two options: 
+Option 1: Flight check from starting point and airport to a destination.
+Option 2: Seat reservation on a given flight of a given airline.
